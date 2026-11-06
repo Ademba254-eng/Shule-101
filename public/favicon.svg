@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Golden Hexagonal House Outline -->
+  <path d="M26 38L44 26" stroke="#EAA023" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M74 38L56 26" stroke="#EAA023" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M23 37L15 45V69L37 84" stroke="#EAA023" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M77 37L85 45V58" stroke="#EAA023" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Graduation Mortarboard Cap -->
+  <path d="M37 25C37 25 43 31 50 31C57 31 63 25 63 25V28C63 32.5 57 35 50 35C43 35 37 32.5 37 28V25Z" fill="#261611" />
+  <polygon points="50,11 81,21 50,29 19,21" fill="#261611" />
+  <circle cx="50" cy="20" r="1.5" fill="#EAA023" />
+  <path d="M49 20L31 23V29" stroke="#261611" stroke-width="1.6" stroke-linecap="round" />
+  <rect x="29.5" y="29" width="3" height="4.5" rx="1" fill="#261611" />
+
+  <!-- 4 Square Window Panes in 2x2 Grid -->
+  <rect x="40" y="44" width="8" height="8" rx="1.5" fill="#261611" />
+  <rect x="52" y="44" width="8" height="8" rx="1.5" fill="#261611" />
+  <rect x="40" y="56" width="8" height="8" rx="1.5" fill="#261611" />
+  <rect x="52" y="56" width="8" height="8" rx="1.5" fill="#261611" />
+</svg>
